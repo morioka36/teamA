@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - ground
   - Box
+  - ' Switch'
+  - Door
+  - ground
   layers:
   - Default
   - TransparentFX

@@ -26,7 +26,7 @@ public class player_move : MonoBehaviour
 
 
         //ƒWƒƒƒ“ƒvˆ—
-        if (Input.GetKeyDown(KeyCode.W) && isGrounded) 
+        if (Input.GetKeyDown("w") && isGrounded) 
         {
             Jump();
             isGrounded = false;
