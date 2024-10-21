@@ -4,10 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - GameOver
-  - GameCler
-  - a
-  - b
+  - ground
+  - Box
   layers:
   - Default
   - TransparentFX
